@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings
+.metadata/
+.recommenders/
+
+*.aux
+*.lof
+*.log
+*.lot
+*.gz
+*.bak
+*.toc
+/bin/
